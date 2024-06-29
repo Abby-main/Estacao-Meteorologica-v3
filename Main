@@ -78,7 +78,7 @@ const char* ssid = "Rede"; // Mome Da Rede
 const char* password = "Senha Rede"; // Senha Da Rede
 
 unsigned long myChannelNumber = 8;
-const char * myWriteAPIKey = "9JKKBS1KCW7LU7TL";
+const char * myWriteAPIKey = "coloque sua API";
 
 unsigned long lastTime = 0; //Tempo Do Último Loop
 
